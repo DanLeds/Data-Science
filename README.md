@@ -1,27 +1,32 @@
-# Credit Scoring Models: Assessing Risk and Creditworthiness
+# Credit Scoring Models
 
-Production system focused on performance, reliability, and clean execution.
+Data & analytics components.
 
----
-## Overview
-This GitHub repository showcases a collection of my data science projects, each crafted with a focus on real-world applications and data-driven insights.
----
+## Goal
+<What problem this data logic solves. Business or product impact.>
+Assessing Risk and Creditworthiness
 
-## Status
-- In production
-- Actively maintained
-- Continuous improvement
+## Scope
+- <What is included>
+- <What is intentionally excluded>
 
----
+## Structure
+- <folders / datasets / layers>
 
-## Principles
-- Production over opinions
-- Performance first
-- Clean and predictable behavior
-- Silent execution
+## Data sources
+- <Source 1>
+- <Source 2>
 
----
+## Key outputs
+- <Tables / metrics / models>
+- <Consumers (product, ops, BI, etc.)>
+
+## Quality & reliability
+- <Tests / validations>
+- <Freshness / SLAs>
+
+## Tech
+- SQL / Python / dbt / BigQuery / etc.
 
 ## Notes
-Documentation is intentionally minimal.
-The code reflects the current state of the system.
+Focused on correctness, performance and maintainability.
