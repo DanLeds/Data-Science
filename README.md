@@ -77,6 +77,7 @@ Each notebook generally follows this structure:
 - NumPy
 - Pandas
 - Scikit-learn
+- Statsmodels
 - Statistics & probability
 - Jupyter notebooks
 
