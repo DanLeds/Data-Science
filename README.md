@@ -1,4 +1,4 @@
-# 🧠 Data Science
+# ⚗️ Data Science
 
 Applied Data Science — Models, Theory, and Practice
 
@@ -44,7 +44,7 @@ This use case is well-suited for:
 
 ---
 
-## 🧠 Modeling Approach
+## 📈 Modeling Approach
 
 Typical topics covered include:
 - logistic regression
@@ -94,7 +94,7 @@ It is intentionally notebook-centric and theory-oriented.
 
 ---
 
-## 🧠 Philosophy
+## 📜 Philosophy
 
 A model without understanding is just noise.
 
