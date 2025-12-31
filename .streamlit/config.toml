@@ -1,0 +1,16 @@
+[global]
+disableWidgetStateDuplicationWarning = false
+
+showWarningOnDirectExecution = true
+
+[client]
+showErrorDetails = false
+
+[theme] 
+base = "dark"
+primaryColor = "#3ebb21"
+
+[server]
+address = "0.0.0.0"
+port = 8501
+enableCORS = true
