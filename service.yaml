@@ -1,0 +1,25 @@
+# apiVersion: v1
+# kind: Service
+# metadata:
+#     name: logit-model-service
+# spec:
+#     selector: 
+#         app: logit-model
+#     ports:
+#         - protocol: TCP
+#           port: 80 
+#           targetPort: 8501 
+#     type: LoadBalancer
+
+apiVersion: v1
+kind: Service
+metadata:
+    name: logit-model-service
+spec:
+    selector: 
+        app: logit-model
+    ports:
+        - protocol: TCP
+          port: 80 
+          targetPort: 8501 
+    type: NodePort
